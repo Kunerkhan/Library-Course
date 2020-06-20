@@ -1,1 +1,2 @@
-Merge from terminal
+Merge from terminal.
+From master.
